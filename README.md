@@ -37,11 +37,3 @@ The included GitHub Actions workflow runs the test suite on Linux, Windows, and
 macOS, and across multiple Python versions. The fingerprint script can be used to
 compare hash outputs between CI jobs.
 
-## Repository link for the report
-
-After uploading this folder to GitHub or GitLab, replace the placeholder in the
-final report with the public repository URL, for example:
-
-```text
-https://github.com/<your-username>/marshal-stability-tests
-```
