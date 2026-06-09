@@ -1,0 +1,170 @@
+{
+  "fingerprints": {
+    "bool_false": {
+      "sha256": "f67ab10ad4e4c53121b6a5fe4da9c10ddee905b978d3788d2723d7bfacbe28a9",
+      "stable_within_run": true
+    },
+    "bool_true": {
+      "sha256": "e632b7095b0bf32c260fa4c539e9fd7b852d0de454e9be26f24d0d6f91d069d3",
+      "stable_within_run": true
+    },
+    "bytearray_binary": {
+      "sha256": "e759ec37df9d575d9d5b5b19e3be98570c469eae5d1a3e86d457a5b0271770bc",
+      "stable_within_run": true
+    },
+    "bytes_binary": {
+      "sha256": "0b08ed82f6c155739862b18db0d9bcd0717c90a3bd87e72a5828d85356b79078",
+      "stable_within_run": true
+    },
+    "bytes_empty": {
+      "sha256": "1e39f9576a47375992ed7b53b49a4fe68e1622c87227165ee0246d3c345996f1",
+      "stable_within_run": true
+    },
+    "complex_inf_nan": {
+      "sha256": "7d2f5deb1ed4d72b77cf406269ae3b93fb21702998048e13dce01e9f71306404",
+      "stable_within_run": true
+    },
+    "complex_regular": {
+      "sha256": "922ff1f0a20845895ebd07c4212450513954812aa6daa53ff09fd423aa2690dd",
+      "stable_within_run": true
+    },
+    "dict_empty": {
+      "sha256": "fa433c89e61178902327da13af7dc0b09aede94a362de11626c21700a658c353",
+      "stable_within_run": true
+    },
+    "dict_ordered": {
+      "sha256": "21aa4bd4bbaeec8ca22a833952b601ba9f5f69b6cebc25092e8b64a5eafef2b3",
+      "stable_within_run": true
+    },
+    "ellipsis": {
+      "sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+      "stable_within_run": true
+    },
+    "float_inf": {
+      "sha256": "a723a76079a60280dcdb2d7984a2adf4a0874e31b9518b30dfc0cfd9c3b53c54",
+      "stable_within_run": true
+    },
+    "float_nan_canonical": {
+      "sha256": "c0071368d2b0e5cb29b0995db32ea00ef9a3c215871dbabf0d4146930d1c7196",
+      "stable_within_run": true
+    },
+    "float_nan_payload": {
+      "sha256": "d46aba2832d3d50b093241faf925229d46e248e0a42cc47b39bb156d379421f9",
+      "stable_within_run": true
+    },
+    "float_negative_inf": {
+      "sha256": "860d99b42a646c71e28db195c6fdd2478e70455cb540732d1204ea023e3fb0cf",
+      "stable_within_run": true
+    },
+    "float_negative_zero": {
+      "sha256": "61d36befa08b84a6b58ddc977ad118100fb1e244e7be671d6f1e027ba585a163",
+      "stable_within_run": true
+    },
+    "float_small": {
+      "sha256": "6026796fb71c5d7591258d4d3d481d0f46f3d683b1d70d9c264d8cdd899f68d9",
+      "stable_within_run": true
+    },
+    "float_zero": {
+      "sha256": "a7b2474c2b69133fff4c0515276a03bbf9d1c38d1d1f8c08bd5db478181398d6",
+      "stable_within_run": true
+    },
+    "frozenset_strings": {
+      "sha256": "dbb721cb806ca1695bf36cc0a5f2a9340f059a4a0d4eaf95d5730c8a7dddcea8",
+      "stable_within_run": true
+    },
+    "int_32_bit_max": {
+      "sha256": "e516a8460a50e97422bd42df9be24ed73081da8f9758f196c6ce7569e5b4850f",
+      "stable_within_run": true
+    },
+    "int_32_bit_min": {
+      "sha256": "00f37a5857c5b8d261c8f01324a48522771c7d9a1e5bc52b3c074c9162009dca",
+      "stable_within_run": true
+    },
+    "int_64_bit_max": {
+      "sha256": "7da212917f2e476cf4865db2c13815055c744e353a553464833b8c812de25fcf",
+      "stable_within_run": true
+    },
+    "int_64_bit_min": {
+      "sha256": "1d14c0165fb31ea4cbd0bb1b47e51ff68e5b351ac4e805209bc25b8a011c9e8a",
+      "stable_within_run": true
+    },
+    "int_big": {
+      "sha256": "ef5ae3311c67084a687cceea33536a5ebce766bb005b082f80848343d8937648",
+      "stable_within_run": true
+    },
+    "int_minus_one": {
+      "sha256": "72aea108d59af9a3db0854601259c9d9a62dce69f656f4a3f4e451500fb85a1f",
+      "stable_within_run": true
+    },
+    "int_zero": {
+      "sha256": "e8ebd827d1f36d7cfa5e5220610aa6370284d1589989363f48ac40166362d449",
+      "stable_within_run": true
+    },
+    "large_bytes_4096": {
+      "sha256": "de23f2d2528367fee57b431ef7c1d2423b34b5f36872f70de2cad893f0605517",
+      "stable_within_run": true
+    },
+    "large_list_5000": {
+      "sha256": "1f7dabe4423e5c921f267067012ea55eb99d4fd7856341ac4ac790a8101cc70a",
+      "stable_within_run": true
+    },
+    "list_empty": {
+      "sha256": "cd13cd2473c97737511c66500c332fdf9ad78c5f6e8d4eb4fea992bb63f42055",
+      "stable_within_run": true
+    },
+    "list_nested": {
+      "sha256": "d387a7ea794f0c4899e03fa6515322d7a47438f00b3d0e04db1a889ed3bc5cea",
+      "stable_within_run": true
+    },
+    "none": {
+      "sha256": "8ce86a6ae65d3692e7305e2c58ac62eebd97d3d943e093f577da25c36988246b",
+      "stable_within_run": true
+    },
+    "set_empty": {
+      "sha256": "995046494f919338259e00eb000e87957890be5cb4e30be304e6646e1426578b",
+      "stable_within_run": true
+    },
+    "set_strings": {
+      "sha256": "6bd9a530307b445bf64652b862b79b27e04d523ee59993409f86d95b7f5a91f0",
+      "stable_within_run": true
+    },
+    "stop_iteration": {
+      "sha256": "8de0b3c47f112c59745f717a626932264c422a7563954872e237b223af4ad643",
+      "stable_within_run": true
+    },
+    "str_255_chars": {
+      "sha256": "04f7b02ce7c33fd7aaacd4437a7dcfc292401f929857c6e4db787856d2c341f0",
+      "stable_within_run": true
+    },
+    "str_256_chars": {
+      "sha256": "c33bff21c708778804b6c73059690911e506fe243a4f2a1a57ef5d2a73eaa047",
+      "stable_within_run": true
+    },
+    "str_empty": {
+      "sha256": "153d812467db095632c6583da7f82cf7ad1e3f9ef18b6358c10f28d2804822f4",
+      "stable_within_run": true
+    },
+    "str_one_char": {
+      "sha256": "e50f2bd9ffc67f4d80794a6265f0e1f8c585b55d059b52b033443a6d99958392",
+      "stable_within_run": true
+    },
+    "str_unicode": {
+      "sha256": "829497b68202af5ce046a3afdd8ebd2f0724506f8e85232f2812756d142deb77",
+      "stable_within_run": true
+    },
+    "tuple_empty": {
+      "sha256": "86c11f10c038a75279e64a09cbc5cacb478a9af27d1b5cce1d1b1cc7e23a1b81",
+      "stable_within_run": true
+    },
+    "tuple_nested": {
+      "sha256": "951575b4afe3e0335597a82dc0feee74377a6df781c6aa4fdff3d2becc753d69",
+      "stable_within_run": true
+    }
+  },
+  "implementation": "CPython",
+  "machine": "x86_64",
+  "marshal_version": 4,
+  "platform": "Linux-4.4.0-x86_64-with-glibc2.41",
+  "python_version": "3.13.5 (main, Jun 25 2025, 18:55:22) [GCC 14.2.0]",
+  "repeats": 10
+}
